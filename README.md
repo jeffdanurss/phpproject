@@ -24,7 +24,7 @@ Use the following command to clone this repository to your local machine:
 bash
 - git clone https://github.com/jeffdanurss/phpproject.git
 - cd phpproject
-- php phpproject.php
+- php index.php
 ## Dockerization 🐋
 <ol>
   Step 1: Build the Docker Image
