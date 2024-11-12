@@ -42,7 +42,9 @@ docker tag fdbd0dcfb829 jeffdanurss/phpimagen
 
 
   Step 3: Push Image to Docker Hub
+  
 bash
+
 docker push jeffdanurss/phpimagen
 
 </ol>
